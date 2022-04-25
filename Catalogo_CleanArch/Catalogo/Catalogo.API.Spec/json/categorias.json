@@ -1,0 +1,17 @@
+[
+  {
+    "CategoriaId": 1,
+    "Nome": "Bebidas",
+    "ImagemUrl": "http://www.macoratti.net/Imagens/1.jpg"
+  },
+  {
+    "CategoriaId": 2,
+    "Nome": "Lanches",
+    "ImagemUrl": "http://www.macoratti.net/Imagens/2.jpg"
+  },
+  {
+    "CategoriaId": 3,
+    "Nome": "Sobremesas",
+    "ImagemUrl": "http://www.macoratti.net/Imagens/3.jpg"
+  }
+]
