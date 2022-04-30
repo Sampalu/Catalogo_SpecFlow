@@ -19,6 +19,7 @@ using Xunit;
 //https://blog.tonysneed.com/2022/01/28/using-specflow-for-bdd-with-net-6-web-api/
 //https://engineering.deltax.com/articles/2019-05/dotnetcore-api-specflow
 //https://renatogroffe.medium.com/asp-net-core-specflow-implementando-testes-a-partir-de-uma-user-story-8a60f6335d70
+//https://stackoverflow.com/questions/49917144/how-to-publish-results-using-dotnet-test-command
 
 namespace Catalogo.API.Spec.Steps
 {
