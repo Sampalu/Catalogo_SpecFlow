@@ -6,6 +6,7 @@ obj/
 [Dd]ebug*/
 [Rr]elease*/
 .vs/
+TestResults/
 
 #Project files
 [Bb]uild/
